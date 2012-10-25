@@ -1,5 +1,5 @@
 /*
- * Copyright (c) 2005-2011 Alterra, Wageningen UR, The Netherlands and the
+ * Copyright (c) 2005-2012 Alterra, Wageningen UR, The Netherlands and the
  * OpenMI Association.
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
